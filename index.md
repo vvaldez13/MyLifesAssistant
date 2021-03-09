@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[Upload Syllabus](Upload-Syllabus.html)
+[Upload-Syllabus](Upload-Syllabus.html)
 [Enter-Other-Obligations](Enter-Other-Obligations.html)
 [Create-Account](Create-Account.html)
 [Enter-Work-Schedule](Enter-Work-Schedule.html)
